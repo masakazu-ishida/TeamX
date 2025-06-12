@@ -1,10 +1,8 @@
 
 public class MyClass {
 	
-	きょうはいいてんき
-	きょうもいい天気
-	これがサーバの最新です。
-	
-	aaaaaa
+	public static void main(String[] args) {
+		
+	}
 
 }
