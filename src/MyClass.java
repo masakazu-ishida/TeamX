@@ -12,6 +12,9 @@ public class MyClass {
 			if(a > 100) {
 				break;
 			}
+			else {
+				System.out.println(a);
+			}
 			
 		}
 		
